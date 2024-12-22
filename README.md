@@ -1,4 +1,4 @@
-# Blockchain Library System
+# Core-Blockchain in Golang
 
 This is a **Blockchain-based Library Management System** built using Go (Golang). The project uses a **Proof of Work** mechanism to manage and verify book checkouts securely.
 
